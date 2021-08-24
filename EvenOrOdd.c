@@ -42,3 +42,4 @@ int main(){
 	printf("%d ",ToggleKth(num1,1));
 	return 0;
 }
+
